@@ -53,7 +53,7 @@ import UIKit
     }
     
     
-    // Integer values to represent symbol types, fill types, and colors.
+    // integer values to represent symbol types, fill types, and colors.
     @IBInspectable
     var symbolInt: Int = 1 {
         didSet {
