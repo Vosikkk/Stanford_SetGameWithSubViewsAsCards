@@ -44,4 +44,4 @@ Enjoy playing Set, and have fun!
 
 ### Acknowledgments
 
-This project was created as part of an assignment and follows the specified requirements.
+This project was created as part of an assignment 3 and follows the specified requirements.
